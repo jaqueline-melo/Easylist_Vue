@@ -1,6 +1,6 @@
 <template>
 <div >
- 
+ <h1> Bottombar <h1/>
   </div>
 </template>
 
